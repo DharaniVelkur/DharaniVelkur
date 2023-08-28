@@ -35,7 +35,7 @@
 
 <p align="center">
 <a href="https://my-portfolio-alpha-gold.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.dharanivelkur.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="www.linkedin.com/in/velkur-dharani-95a166284"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Velkur%20Dharani-blue?style=flat-square&logo=linkedin"></a>
+<a href="www.linkedin.com/in/velkur-dharani-95a166284/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Velkur%20Dharani-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:dharanivelkur@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dharanivelkur@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
