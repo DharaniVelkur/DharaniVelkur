@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hello there 👋
+- 🌱 I’m currently learning React,NodeJS
+- 📫 How to reach me: [dharanivelkur@gmail.com]
 <!--
 **DharaniVelkur/DharaniVelkur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
