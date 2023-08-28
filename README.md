@@ -26,7 +26,6 @@
 <br/>
 
 <a href="https://github.com/DharaniVelkur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DharaniVelkur&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharaniVelkur&theme=buefy&layout=compact" />
 </a>
 
@@ -35,7 +34,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://my-portfolio-alpha-gold.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-[https://my-portfolio-alpha-gold.vercel.app/]?style=flat-square&logo=google-chrome"></a>
+<a href="https://my-portfolio-alpha-gold.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://my-portfolio-alpha-gold.vercel.app/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="www.linkedin.com/in/velkur-dharani-95a166284"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Velkur%20Dharani?style=flat-square&logo=linkedin"></a>
 <a href="mailto:dharanivelkur@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dharanivelkur@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
