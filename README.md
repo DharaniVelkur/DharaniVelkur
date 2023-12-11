@@ -24,6 +24,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
+![Profile](https://komarev.com/ghpvc/?username=dharanivelkur&color=green)
+
 <a href="https://github.com/DharaniVelkur">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharaniVelkur&theme=buefy&layout=compact" />
 </a>
