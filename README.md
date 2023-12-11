@@ -29,7 +29,7 @@
 </a>
 
 <br/>
-![](https://komarev.com/ghpvc/?username=dharanivelkur)
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
